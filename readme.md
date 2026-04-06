@@ -1,0 +1,1 @@
+A simple android clock app that displays the time in bengali script. Consider it an android-based "hello world" project made with AI.
